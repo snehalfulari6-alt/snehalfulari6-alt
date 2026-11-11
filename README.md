@@ -1,4 +1,4 @@
-# Snehal Fulari | Java Developer
+# Snehal Fulari | 
 
 <div align="center">
 
